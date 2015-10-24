@@ -1,4 +1,4 @@
-# assignment
+# README
 This is a repo for an assignment for course Getting and Cleaning Data.
 
 This assignment is to get data, subset it, extract the target part and clean it.
