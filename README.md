@@ -1,7 +1,11 @@
 # assignment
-This is an assignment for course Getting and Cleaning Data.
+This is a repo for an assignment for course Getting and Cleaning Data.
 
 This assignment is to get data, subset it, extract the target part and clean it.
+
+You will find an R script and a code book.
+ 
+In the codebook, you can find how I clean up the data and the description for all the variables.
 
 You don't need to download the data seperately, just run the script and it will download, unzip, and clean data for you.
 
