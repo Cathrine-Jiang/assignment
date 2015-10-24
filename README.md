@@ -1,5 +1,7 @@
 # assignment
-assignment for course Getting and Cleaning Data
+This is an assignment for course Getting and Cleaning Data.
+
+This assignment is to get data, subset it, extract the target part and clean it.
 
 You don't need to download the data seperately, just run the script and it will download, unzip, and clean data for you.
 

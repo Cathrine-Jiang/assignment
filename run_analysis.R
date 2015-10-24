@@ -41,4 +41,5 @@ extra <- cbind(sum[ ,1:2] , sum[ ,mean] , sum[ ,std] , sum[ ,564])
 library(dplyr)
 extra %>% group_by(ID,ACTIVITY) %>% summarize_each(funs(mean))
 test <- write.table(extra , file = "test.txt" , row.names = FALSE)
-## the output data is in the working directory, naming as "test.txt"
+## the output data is in the working directory, naming as "test.txt".
+##If you don't prefer the shape, you can use reshape2 package to change it.
