@@ -2,7 +2,8 @@
 ## project which will give out a tidy data set with the average of each 
 ## variable for each activity and each subject.
 
-## download and unzip the dataset
+## download and unzip the dataset, if you have these done already, just
+## simply skip these.
 fileurl <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 download.file(fileurl, destfile = "data.zip", mode = "wb")
 unzip("data.zip")
